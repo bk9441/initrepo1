@@ -12,7 +12,7 @@
       <uniqueVersion>false</uniqueVersion>
       <id>trucks</id>
       <name>trucks Maven Webapp</name>
-      <url>scp://repo/maven2</url>
+      <url>http://3.91.178.120/opt/maven</url>
       <layout>default</layout>
     </repository>
   </distributionManagement>
