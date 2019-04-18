@@ -12,7 +12,7 @@
       <uniqueVersion>false</uniqueVersion>
       <id>trucks</id>
       <name>trucks Maven Webapp</name>
-      <url>http://3.91.178.120/opt/maven</url>
+      <url>${env.MAVEN_REPO_URL}</url>
       <layout>default</layout>
     </repository>
   </distributionManagement>
