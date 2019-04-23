@@ -25,9 +25,7 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>trucks</finalName>
-  </build>
-  <plugin>
+    <plugin>
     <groupId>org.apache.tomcat.maven</groupId>
     <artifactId>tomcat7-maven-plugin</artifactId>
     <version>2.2</version>
@@ -37,4 +35,5 @@
         <path>/myapp</path>
     </configuration>
 </plugin>
+  </build>
  </project>
